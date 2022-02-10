@@ -11,7 +11,7 @@ import SwiftUI
 struct AnimalIdentifierApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            AnimalsView()
         }
     }
 }
